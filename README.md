@@ -1,5 +1,5 @@
 # Vercel‑Clone on AWS
-
+![UI](https://res.cloudinary.com/dwcvogqak/image/upload/fl_preserve_transparency/v1748372869/Screenshot_from_2025-05-27_22-06-31_przwy6.jpg?_s=public-apps)
 A self‑hosted Vercel‑style deployment pipeline built with Node.js, AWS Fargate, Kafka, ClickHouse, and S3. Push your code to Git, trigger a build on demand, stream real‑time logs, and serve the static output via custom subdomains.
 
 ---
